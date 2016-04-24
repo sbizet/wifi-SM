@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:og="http://ogp.me/ns#">
+<channel><title>Les Echos : tous les articles du journal du jour</title>
+        <link></link>
+        <description>Les Echos : les articles publiés dans les cahiers 1 et 2 du journal du jour</description>
+        <category></category> <language>fr-FR</language>
+        <copyright>copyright 2016</copyright>
+        <pubDate>Mon, 18 Apr 2016 11:06:10 +0200</pubDate>
+        <lastBuildDate>Mon, 18 Apr 2016 11:06:10 +0200</lastBuildDate>
+        <ttl>60</ttl>
+        <docs>http://syndication.lesechos.fr/rss/rss_articles_journal.xml</docs>
+        <skipDays>
+                <day>Saturday</day>
+                <day>Sunday</day>       
+</skipDays>
+        <skipHours>
+                <hour>1</hour>
+                <hour>2</hour>
+                <hour>3</hour>
+                <hour>21</hour>
+                <hour>22</hour>
+                <hour>23</hour>
+                <hour>0</hour>
+        </skipHours>
+<item>
+  <title>Les Demoiselles de Pierre Notte au théâtre du Rond-Point</title>
+  <description>Sur scène, elles sont cinq – quatre comédiennes-chanteuses, plus une pianiste. Soit trois de plus que les « Demoiselles de Rochefort », auxquelles on pense très fort, parce qu’avec « Sur les cendres en avant », son nouveau spectacle à l’affiche du Rond-Point, Pierre Notte se coule totalement dans...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philippe Chevilley</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 10:24:31 +0200</pubDate>
+  <category>Week-end</category>
+  <link>http://www.lesechos.fr/week-end/culture/spectacles/021845008007-les-demoiselles-de-pierre-notte-au-theatre-du-rond-point-1214518.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214518_les-demoiselles-de-pierre-notte-au-theatre-du-rond-point-web-tete-021848822826.jpg"/>
+</item>
+
+<item>
+  <title>L'art physique de Miquel Barceló</title>
+  <description>Certains peintres ont un rapport d’abord intellectuel avec leur travail. D’autres, un rapport plus physique. Ainsi lorsqu’on demande aujourd’hui à l’Allemand Gerhard Richter (né en 1932) quelles sont ses grandes ­références, il évoque contre toute attente l’écrivain Goethe. Richter est un peintre...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Judith Benhamou-Huet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 10:08:16 +0200</pubDate>
+  <category>Week-end</category>
+  <link>http://www.lesechos.fr/week-end/culture/expositions/021844873907-lart-physique-de-miquel-barcelo-1214513.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214513_lart-physique-de-miquel-barcelo-web-tete-021848185773.jpg"/>
+</item>
+
+<item>
+  <title>Nuit Debout : le jour se lève déjà</title>
+  <description>Après quinze jours de fascination inquiète des partis traditionnels, le mouvement Nuit debout connaît des ratés.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cecile Cornudet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 03:00:00 +0200</pubDate>
+  <category>Politique - Société</category>
+  <link>http://www.lesechos.fr/politique-societe/politique/021847637082-le-jour-se-leve-deja-1214418.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214418_nuit-debout-le-jour-se-leve-deja-web-021848825462.jpg"/>
+</item>
+
+<item>
+  <title>Philippe Martinez veut s'imposer à la tête de la CGT sur une ligne dure</title>
+  <description>La centrale syndicale tient son 51 e Congrès cette semaine à Marseille. A l’image de son action contre le projet de loi El Khomri, la CGT tonne mais ne pèse plus.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Leïla de Comarmond</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 03:00:00 +0200</pubDate>
+  <category>Économie France</category>
+  <link>http://www.lesechos.fr/economie-france/social/021839315895-philippe-martinez-veut-simposer-a-la-tete-de-la-cgt-sur-une-ligne-dure-1214539.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214606_philippe-martinez-veut-simposer-a-la-tete-de-la-cgt-sur-une-ligne-dure-web-tete-021848194176.jpg"/>
+</item>
+
+<item>
+  <title>La première place de la CGT menacée par la CFDT dans le privé</title>
+  <description>La CGT, fragilisée dans ses bastions, risque de se voir devancer par la CFDT lors des prochains résultats de représentativité en 2017.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Leïla de Comarmond</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 03:00:00 +0200</pubDate>
+  <category>Économie France</category>
+  <link>http://www.lesechos.fr/economie-france/social/021846899886-la-premiere-place-menacee-par-la-cfdt-dans-le-prive-1214550.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214550_la-premiere-place-de-la-cgt-menacee-par-la-cfdt-dans-le-prive-web-tete-021848182781.jpg"/>
+</item>
+
+<item>
+  <title>Bernard Thibault prend de la hauteur</title>
+  <description>« La troisième guerre mondiale est sociale », affirme l’ancien secrétaire général de la CGT dans le titre de son livre publié vendredi.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Leïla de Comarmond</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 03:00:00 +0200</pubDate>
+  <category>Économie France</category>
+  <link>http://www.lesechos.fr/economie-france/social/021846899971-bernard-thibault-prend-de-la-hauteur-1214467.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214467_bernard-thibault-prend-de-la-hauteur-web-021848198174.jpg"/>
+</item>
+
+<item>
+  <title>Impôt : pourquoi les très hauts revenus sont moins nombreux</title>
+  <description>Après nos révélations, Bercy a publié vendredi les chiffres 2015. Les contribuables aux revenus supérieurs à 1 million d'euros restent 32 % moins nombreux qu'en 2012.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ingrid Feuerstein</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_france/021845420455-impot-pourquoi-les-tres-hauts-revenus-sont-moins-nombreux-1214492.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214492_021847066214_web_tete.jpg"/>
+</item>
+
+<item>
+  <title>Emploi : le numérique, locomotive du marché des ingénieurs</title>
+  <description>Une étude de Pôle emploi souligne le dynamisme des embauches dans le secteur numérique. 95 % des salariés y bénéficient de CDI. Les ingénieurs et chefs de projet en informatique y sont très recherchés.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Derek Perrotte</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_france/021838640438-emploi-le-numerique-locomotive-du-marche-des-ingenieurs-1214470.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214470_021847782252_web.jpg"/>
+</item>
+
+<item>
+  <title>Le rapport Sirugue veut donner aux jeunes le droit de percevoir des minima sociaux</title>
+  <description>Les 18-24 ans ont rarement droit au RSA. Ouvrir le droit au RSA à 21 ans coûterait 3,1 milliards mais réduirait le taux de pauvreté de 3,8 points.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Solveig Godeluck</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_france/021847708039-le-rapport-sirugue-veut-donner-aux-jeunes-le-droit-de-percevoir-des-minima-sociaux-1214443.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Marchés publics : une réforme taillée sur mesure pour les PME</title>
+  <description>Le ministre de l'Economie a présenté vendredi à Bercy sa réforme des marchés publics. Le droit de la commande publique sera plus lisible et plus accessible aux PME.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marie Bellan</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_france/021845378759-marches-publics-une-reforme-taillee-sur-mesure-pour-les-pme-1214420.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214420_marches-publics-une-reforme-taillee-sur-mesure-pour-les-pme-web-021845693327.jpg"/>
+</item>
+
+<item>
+  <title>Pour Macron, un Hollande « très courageux » peut gagner en 2017</title>
+  <description>Politique : François Hollande « pourrait certainement être en situation de gagner » en 2017 s'il prend des « décisions très courageuses » et s'il « explique » son action, a déclaré Emmanuel Macron dans un entretien diffusé dimanche sur la BBC. Pour le ministre de l'Economie, qui a lancé son propre...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_france/021847724358-pour-macron-un-hollande-tres-courageux-peut-gagner-en-2017-1214512.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Surtaxation des CDD : pas la « mesure préférée » de Jean-Michel Baylet</title>
+  <description>Emploi : La proposition de surtaxation des CDD, avancée par le Premier ministre, Manuel Valls, n'est pas la « mesure préférée » de Jean-Michel Baylet dans la loi travail, a affirmé dimanche sur France 3 le ministre des Collectivités territoriales. « Au nom de mon passé de chef d'entreprise [à la...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_france/021847488970-surtaxation-des-cdd-pas-la-mesure-preferee-de-jean-michel-baylet-1214556.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Le G20 va établir une liste de pays « non coopératifs » contre la fraude fiscale</title>
+  <description>Des critères objectifs seront élaborés. Aux Etats-Unis, l'Etat du Delaware est montré du doigt. Le FMI préconise des politiques budgétaires propices à la croissance.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Hiault</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021847409938-le-g20-va-etablir-une-liste-de-pays-non-cooperatifs-contre-la-fraude-fiscale-1214511.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214511_le-g20-va-etablir-une-liste-de-pays-non-cooperatifs-contre-la-fraude-fiscale-web-tete-021847607298.jpg"/>
+</item>
+
+<item>
+  <title>Les régions espagnoles se rebiffent contre Madrid</title>
+  <description>Madrid demande aux régions de passer sous 0,3 % de déficit cette année. Mais l'objectif est impossible selon les exécutifs régionaux de tous bords politiques.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cecile Thibaud</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021847452803-les-regions-espagnoles-se-rebiffent-contre-madrid-1214474.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Grèce : le FMI et l'Europe divergent toujours</title>
+  <description>Les ministres des Finances européens sont confiants sur un accord prochain. Mais la présence du FMI reste toujours en suspens.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Hiault</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021847452277-grece-le-fmi-et-leurope-divergent-toujours-1214528.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les séismes paralysent plusieurs géants de l'économie japonaise</title>
+  <description>Les groupes Toyota, Mitsubishi Motors, Renesas ou encore Sony ne pourront pas ouvrir leurs usines ce lundi.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021847827623-les-seismes-paralysent-plusieurs-geants-de-leconomie-japonaise-1214502.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214502_les-seismes-paralysent-plusieurs-geants-de-leconomie-japonaise-web-021847838645.jpg"/>
+</item>
+
+<item>
+  <title>L'économie chinoise se stabilise… d'après les chiffres officiels</title>
+  <description>A 6,7 %, de janvier à mars, la croissance en Chine est au plus bas depuis 2009. Mais elle correspond aux objectifs de Pékin.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021845313781-leconomie-chinoise-se-stabilise-dapres-les-chiffres-officiels-1214423.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214423_021847065130_web.jpg"/>
+</item>
+
+<item>
+  <title>Les trois épées de Damoclès de Pékin</title>
+  <description>Dette, immobilier, surcapacités…</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alain Ruello</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021845553212-les-trois-epees-de-damocles-de-pekin-1214551.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Zone euro : excédent de 19 milliards en février</title>
+  <description>La zone euro a enregistré un excédent commercial de 19 milliards d'euros en février, soit 1 milliard de moins qu'en février 2015, selon Eurostat. Les exportations vers le reste du monde atteignent 163,5 milliards d'euros (+ 1 %). Les importations (144,4 milliards) ont, quant à elles, augmenté de...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021845518352-zone-euro-excedent-de-19-milliards-en-fevrier-1214472.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214472_021847064164_web.jpg"/>
+</item>
+
+<item>
+  <title>Turquie : hausse du chômage</title>
+  <description>Le taux de chômage en Turquie a augmenté pour le deuxième mois de suite, à 11,1 % de la population active en janvier dernier, contre 10,8 % le mois précédent, a annoncé vendredi l'Agence nationale des statistiques. Ce taux est le plus élevé depuis février 2015. Le chômage des jeunes est resté à un...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021845313992-turquie-hausse-du-chomage-1214541.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214541_021847066120_web.jpg"/>
+</item>
+
+<item>
+  <title>3,9 / milliards d'euros</title>
+  <description>L'Italie a enregistré, en février, un excédent de sa balance commerciale de 3,9 milliards d'euros, en hausse sur un an de 3,5 milliards, a annoncé vendredi l'Institut national des statistiques. Sur un an, les exportations progressent de...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021845518518-39-milliards-deuros-1214489.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Grève dans le pétrole koweïtien</title>
+  <description>Pétrole : Les travailleurs du secteur pétrolier au Koweït, qui protestent contre des réductions de salaires envisagées par le gouvernement,ont entamé dimanche une grève « illimitée ». Selon un porte-parole de la Kuwait Oil Co, la production de pétrole du Koweït a baissé à 1,1 million de barils...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021847533463-greve-dans-le-petrole-koweitien-1214493.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Mesures pour les pauvres en Argentine</title>
+  <description>Argentine : Le président argentin Mauricio Macri a annoncé samedi une série de mesures sociales pour les revenus les plus modestes, dans un contexte de inflation, de vagues de licenciements et d'augmentation du coût des services publics. Le paquet de mesures comprend l'extension des allocations...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_monde/021847533608-mesures-pour-les-pauvres-en-argentine-1214458.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Le dévoilement du travail, une heureuse apocalypse</title>
+  <description>Pour s'être exclusivement occupés du chômage sans traiter la question centrale de la mutation du travail qui perçait dès les années 1970, les pouvoirs publics sont aujourd'hui dans une impasse sociale. Dos au mur, ils n'ont plus d'autre choix que de s'attaquer aux vrais sujets.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Henri Vacquin</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/021840963157-le-devoilement-du-travail-une-heureuse-apocalypse-1214522.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214522_le-devoilement-du-travail-une-heureuse-apocalypse-web-021845495438.jpg"/>
+</item>
+
+<item>
+  <title>CGT : le déclin ne fait que commencer</title>
+  <description>Il y a exactement dix ans, lors du 48e Congrès de la CGT à Lille, Bernard Thibault se fixait pour objectif d'atteindre 1 million d'adhérents. « Nous n'allons pas demander aux salariés de s'adapter à la CGT, nous allons bouger la CGT pour aller vers eux ! » lançait-il à la tribune. Cette stratégie a...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Etienne Lefebvre</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_idees_et_debats/021844870498-cgt-le-declin-ne-fait-que-commencer-1214523.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Le Brexit fait trembler le rocher de Gibraltar</title>
+  <description>Et Gibraltar ? Les partisans du Brexit n'ont vraisemblablement pas pensé à l'inquiétude des quelque 30.000 habitants de l'un des derniers territoires de l'Empire britannique situé au sud de l'Europe et dont le seul lien passe par l'Espagne. A la différence des autres territoires d'outre-mer de la...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacques Hubert-Rodier</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/021845054534-le-brexit-fait-trembler-le-rocher-de-gibraltar-1214414.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les marchés financiers au service de l'action climatique</title>
+  <description>Les marchés financiers ont un rôle clef à jouer dans la transition vers une économie décarbonée et résiliente aux effets des dérèglements climatiques. Longtemps peu mobilisés - à l'exception de quelques investisseurs de long terme (fonds de pension et assureurs), et aussi les premiers à mesurer...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/021837596994-les-marches-financiers-au-service-de-laction-climatique-1214439.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>La baisse des dépenses publiques ne doit pas rester un voeu pieux</title>
+  <description>Depuis la crise de 2008 et l'explosion de la dette publique, qui dépasse en France les 95 % du PIB, le discours sur la baisse des dépenses publiques a gagné du terrain. Mais il reste à ce stade un voeu pieux en France. Au-delà de l'impuissance des politiques monétaires, incapables de relancer la...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/editos-analyses/021825786359-la-baisse-des-depenses-publiques-ne-doit-pas-rester-un-voeu-pieux-1214444.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Le décollage programmé des gratte-ciel en bois</title>
+  <description>En France, comme partout dans le monde, les projets d'immeubles de grande hauteur en bois se multiplient. Un regain d'intérêt qui s'explique à la fois par l'évolution des techniques de construction et par le réchauffement climatique.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Hiault</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Paris Climat 2015</category>
+  <link>http://www.lesechos.fr/paris-climat-2015/actualites/021824740546-le-decollage-programme-des-gratte-ciel-en-bois-1214429.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214429_le-decollage-programme-des-gratte-ciel-en-bois-web-tete-021845292815.jpg"/>
+</item>
+
+<item>
+  <title>Séisme meurtrier en Equateur</title>
+  <description>Des habitants de Manta contemplent les ruines de leurs habitations après le séisme de magnitude 7,8 qui a secoué samedi soir la côte pacifique de l'Equateur, faisant au moins 77 morts et 600 blessés. L'état d'exception a été décrété et le président, Rafael Correa, a annoncé des renforts venus de...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847892458-seisme-meurtrier-en-equateur-1214442.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214442_seisme-meurtrier-en-equateur-web-021847837927.jpg"/>
+</item>
+
+<item>
+  <title>Le pape François à la rencontre de réfugiés syriens</title>
+  <description>En visite à Lesbos, samedi, le souverain pontife a lancé un message d'espoir.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Olivier Tosseri</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847410095-le-pape-francois-a-la-rencontre-de-refugies-syriens-1214455.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>régions : Baylet vote pour le nom « Languedoc »</title>
+  <description>Pour le futur nom de la grande région qui regroupe les territoires de Midi-Pyrénées et Languedoc-Roussillon, l'ancien sénateur du Tarn-et-Garonne et actuel ministre des Collectivités territoriales Jean-Michel Baylet a donné sa préférence à « Languedoc », car « c'est la vérité historique ». Cinq...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847832649-regions-baylet-vote-pour-le-nom-languedoc-1214548.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Sécurité routière  : motards en Colère contre le futur contrôle technique</title>
+  <description>Des milliers de motards se sont rassemblés dimanche à Vincennes, avant de défiler dans Paris pour protester contre le contrôle technique obligatoire des deux-roues à la revente, prévu par le gouvernement pour 2017. La veille, une cinquantaine de manifestations similaires ont eu lieu partout en...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847623860-securite-routiere-motards-en-colere-contre-le-futur-controle-technique-1214469.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214469_securite-routiere-motards-en-colere-contre-le-futur-controle-technique-web-021847756596.jpg"/>
+</item>
+
+<item>
+  <title>F OOTBALL  : Deschamps visé par une expertise judiciaire</title>
+  <description>Le sélectionneur des Bleus, Didier Deschamps, est visé par une expertise judiciaire sur les conditions de son départ de l'Olympique de Marseille en 2012, rapporte le « JDD ». Selon le journal, Didier Deschamps, qui fut l'entraîneur de l'OM de 2009 à 2012, avant sa nomination à la tête de l'équipe...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847674362-f-ootball-deschamps-vise-par-une-expertise-judiciaire-1214481.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Législative  : Le PS qualifié au second tour d'une partielle</title>
+  <description>La candidate du PS a été qualifiée dimanche soir pour le second tour, en ballotage favorable, de la législative partielle de la 3e circonscription de Loire Atlantique. Karine Daniel affrontera un candidat LR-Modem dans ce scrutin imposé par le décès du suppléant du ministre des Affaires étrangères,...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021848159753-legislative-le-ps-qualifie-au-second-tour-dune-partielle-1214510.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>PRéSIDENTIELLE  : sondage désastreux pour Hollande</title>
+  <description>François Hollande ne se qualifierait pas pour le second tour en 2017, que ce soit face à Alain Juppé ou Nicolas Sarkozy, selon une enquête TNS Sofres pour le Figaro, LCI et RTL publiée dimanche soir. Le chef de l'Etat ne recueillerait que 13 % des voix (-7), juste devant Jean-Luc Mélenchon (12 %)....</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847457806-presidentielle-sondage-desastreux-pour-hollande-1214426.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Brésil  : La présidente Dilma Rousseff sur la sellette</title>
+  <description>Les députés brésiliens devaient voter dans la nuit de dimanche à lundi sur la destitution de la présidente, Dilma Rousseff, accusée d'être impliquée dans le scandale Petrobras et une manipulation des comptes publics. Les 200 millions de Brésiliens sont partagés, entre manifestations contre le...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847452015-bresil-la-presidente-dilma-rousseff-sur-la-sellette-1214447.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>IRAN : Air France Reprend la LIAISON Paris-téhéran</title>
+  <description>Air France a rouvert dimanche, avec le vol AF738, sa liaison Paris-Téhéran, suspendue depuis 2008 en raison des sanctions internationales contre l'Iran. Le secrétaire d'Etat français aux Transports, Alain Vidalies, accompagné d'une quinzaine de patrons, se trouvait à bord. Cette réouverture fait...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847410507-iran-air-france-reprend-la-liaison-paris-teheran-1214445.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Turquie  : Poursuites autorisées contre un humoriste allemand</title>
+  <description>La chancelière allemande, Angela Merkel, a décidé au nom des liens entre Berlin et Ankara et conformément au Code pénal, qui interdit les injures contre un chef d'Etat étranger, d'autoriser des poursuites réclamées par la Turquie à l'encontre d'un humoriste pour offense au président Recep Tayyip...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847410304-turquie-poursuites-autorisees-contre-un-humoriste-allemand-1214525.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214525_turquie-poursuites-autorisees-contre-un-humoriste-allemand-web-021847639634.jpg"/>
+</item>
+
+<item>
+  <title>Liban  : Hollande promet l'aide de Paris</title>
+  <description>François Hollande a achevé dimanche sa visite au Liban dans un campement de réfugiés syriens de la plaine de la Bekaa, après avoir promis à Beyrouth un renfort de 100 millions d'euros sur trois ans d'aide humanitaire ainsi qu'une une aide militaire non précisée. Paris compte aussi accueillir 3.000...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847452126-liban-hollande-promet-laide-de-paris-1214438.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Belgique  : Hommage aux victimes des attentats</title>
+  <description>Environ 7.000 personnes ont rendu hommage, dimanche à Bruxelles, aux 32 morts des attentats du 22 mars, lors d'une « marche contre la terreur et la haine » à laquelle ont participé les représentants de tous les cultes. La veille, le ministre de l'Intérieur, le nationaliste flamand Jan Jambon, avait...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Bourdillon</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec1_derniere/021847673808-belgique-hommage-aux-victimes-des-attentats-1214487.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>A Paris, Pinault prêt à transformer la Bourse de commerce en musée</title>
+  <description>La CCI de Paris-Ile-de-France serait proche de donner son accord pour la vente de la Bourse de commerce à la Ville de Paris. Celle-ci la rétrocéderait au collectionneur.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martine Robert</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_entreprise_et_marches/021847376046-a-paris-pinault-pret-a-transformer-la-bourse-de-commerce-en-musee-1214524.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214524_a-paris-pinault-pret-a-transformer-la-bourse-de-commerce-en-musee-web-021847607087.jpg"/>
+</item>
+
+<item>
+  <title>Automobile : Peugeot, DS et Alpine montent le son avec Focal</title>
+  <description>Focal monte à bord des grandes marques automobiles. Pour la première fois, le spécialiste français des enceintes haut de gamme va intégrer ses systèmes audio en première monte chez de grands constructeurs, via des partenariats avec les marques DS, Peugeot et Alpine, la marque sportive de Renault,...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maxime Amiot</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_entreprise_et_marches/021831646702-automobile-peugeot-ds-et-alpine-montent-le-son-avec-focal-1214417.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Musique : YouTube sommé par Bruxelles de mieux payer les ayants droit</title>
+  <description>La Commission européenne s'invite dans le bras de fer opposant YouTube et les labels sur la rémunération de la musique enregistrée diffusée sur les plates-formes de streaming. Selon le « Financial Times », le commissaire européen au Numérique, l'Estonien Andrus Ansip, appelle la filiale de Google à...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexandre Counis</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_entreprise_et_marches/021847735738-musique-youtube-somme-par-bruxelles-de-mieux-payer-les-ayants-droit-1214436.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Safran et GE font le break sur les moteurs de l'Airbus A320</title>
+  <description>Le Leap de CFM International a pris 55 % du marché de l'A320 neo. Leur concurrent Pratt &amp; Whitney a pâti de ses problèmes techniques.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruno Trevidic</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021846784006-safran-et-ge-font-le-break-sur-les-moteurs-de-lairbus-a320-1214457.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214457_safran-et-ge-font-le-break-sur-les-moteurs-de-lairbus-a320-web-021845807834.jpg"/>
+</item>
+
+<item>
+  <title>Carolyn McCall : EasyJet mise sur le moteur Leap pour devenir « encore plus low cost »</title>
+  <description>Premier client du moteur du CFMI-56 de Safran et GE, avec plus de 760 pièces commandées en vingt ans, easyJet est aussi l'un des plus gros clients de son successeur, le Leap-1A, qui équipera la totalité des 100 Airbus A320 neo commandés en 2014. Des performances du nouveau moteur de CFM dépendra donc largement l'avenir de la compagnie low cost orange. Sa directrice générale, Carolyn McCall, l'a elle-même souligné, en venant célébrer jeudi dernier à Villaroche, sur le site de Snecma, le vingtième anniversaire de son partenariat avec CFM International. La patronne d'easyJet compte sur l'A320 neo et ses moteurs Leap pour maintenir des coûts bas et faire la différence avec la concurrence.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruno Trevidic</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021846882879-carolyn-mccall-easyjet-mise-sur-le-moteur-leap-pour-devenir-encore-plus-low-cost-1214473.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214473_carolyn-mccall-easyjet-mise-sur-le-moteur-leap-pour-devenir-encore-plus-low-cost-web-021845807758.jpg"/>
+</item>
+
+<item>
+  <title>La bataille pour la succession d'Alexandre de Juniac à la tête d'Air France-KLM est engagée</title>
+  <description>Si deux candidats font figure de favoris, l'issue de la bataille reste très incertaine.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruno Trevidic</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Industrie - Services</category>
+  <link>http://www.lesechos.fr/industrie-services/tourisme-transport/021847359398-la-bataille-pour-la-succession-dalexandre-de-juniac-a-la-tete-dair-france-klm-est-engagee-1214517.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214517_la-bataille-pour-la-succession-dalexandre-de-juniac-a-la-tete-dair-france-klm-est-engagee-web-tete-021845995127.jpg"/>
+</item>
+
+<item>
+  <title>Le crépuscule du charbon américain</title>
+  <description>Le gaz de schiste deviendra cette année la première source d'électricité aux Etats-Unis. L'industrie du charbon est sinistrée par les dépôts de bilan et les suppressions de postes.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elsa Conesa</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021840220184-le-crepuscule-du-charbon-americain-1214501.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Dans les Appalaches, la fin d'un monde</title>
+  <description>En Virginie-Occidentale, berceau historique du charbon, la fermeture des mines a des conséquences sociales dramatiques.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elsa Conesa</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845450701-dans-les-appalaches-la-fin-dun-monde-1214514.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214514_dans-les-appalaches-la-fin-dun-monde-web-021847752526.jpg"/>
+</item>
+
+<item>
+  <title>Les banques se retirent les unes après les autres</title>
+  <description>Plusieurs grandes banques ont cessé de financer le charbon américain. Un choix économique autant que politique.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elsa Conesa</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Paris Climat 2015</category>
+  <link>http://www.lesechos.fr/paris-climat-2015/actualites/021839139532-les-banques-se-retirent-les-unes-apres-les-autres-1214490.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>François Hollande s'invite dans le dossier de l'avenir d'EDF</title>
+  <description>Un conseil d'administration est prévu le 22 avril, après une réunion d'arbitrage en présence du chef de l'Etat.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anne Feitz</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845408344-francois-hollande-sinvite-dans-le-dossier-de-lavenir-dedf-1214459.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214459_francois-hollande-sinvite-dans-le-dossier-de-lavenir-dedf-web-021845778097.jpg"/>
+</item>
+
+<item>
+  <title>Le Laboratoire de la Mer sous le choc de la méthode Perrigo</title>
+  <description>Le licenciement express du patron par le géant américain a fait réagir les salariés.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stanislas Du Guerny</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845876464-le-laboratoire-de-la-mer-sous-le-choc-de-la-methode-perrigo-1214497.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214497_le-laboratoire-de-la-mer-sous-le-choc-de-la-methode-perrigo-web-021845778523.jpg"/>
+</item>
+
+<item>
+  <title>Dengue : Sanofi obtient le soutien de l'OMS</title>
+  <description>L'Organisation mondiale de la santé conseille l'utilisation du vaccin du groupe français.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845652068-dengue-sanofi-obtient-le-soutien-de-loms-1214516.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>L'Espagne et l'Italie se font laboratoires d'innovation de Carrefour</title>
+  <description>Les magasins d'Europe du Sud confirment leur retour à la croissance. Malgré une conjoncture encore médiocre. Pour surmonter la crise, l'enseigne casse ses codes.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philippe Bertrand</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021841913589-lespagne-et-litalie-se-font-laboratoires-dinnovation-de-carrefour-1214437.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214437_lespagne-et-litalie-se-font-laboratoires-dinnovation-de-carrefour-web-021845655917.jpg"/>
+</item>
+
+<item>
+  <title>24 h/24 : la révolution transalpine des horaires</title>
+  <description>En Italie, Carrefour ouvre jour et nuit dans plus d'une centaine de supers et d'hypermarchés.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philippe Bertrand</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021844753195-24-h24-la-revolution-transalpine-des-horaires-1214452.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214452_24-h24-la-revolution-transalpine-des-horaires-web-tete-021845655965.jpg"/>
+</item>
+
+<item>
+  <title>Le Club Med va investir pour développer sa destination Italie</title>
+  <description>Le groupe français va engager 155 millions d'euros dans la rénovation de villages et le développement de nouveaux sites.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Olivier Tosseri</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845590174-le-club-med-va-investir-pour-developper-sa-destination-italie-1214555.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214555_le-club-med-va-investir-pour-developper-sa-destination-italie-web-tete-021845916070.jpg"/>
+</item>
+
+<item>
+  <title>Voyageurs du Monde s'ouvre des horizons à l'international</title>
+  <description>Le spécialiste du voyage sur mesure ou d'aventure veut doubler son activité à l'international. Pour ce faire, il veut « vendre » la France à une clientèle étrangère.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Palierse</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845510776-voyageurs-du-monde-souvre-des-horizons-a-linternational-1214488.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>WME-IMG, le géant du sport et de la culture, investit dans l'art</title>
+  <description>L'américain prend une participation dans la foire d'art Frieze. La concurrence s'exacerbe entre les foires.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martine Robert</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847375696-wme-img-le-geant-du-sport-et-de-la-culture-investit-dans-lart-1214546.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214546_wme-img-le-geant-du-sport-et-de-la-culture-investit-dans-lart-web-021847607553.jpg"/>
+</item>
+
+<item>
+  <title>Sequana poursuit son recentrage sur la distribution d'emballages</title>
+  <description>Le groupe va céder Arjowiggins Healthcare à un fonds d'investissement.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845651925-sequana-poursuit-son-recentrage-sur-la-distribution-demballages-1214462.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Cerises : la France, l'Espagne et l'Italie interdisent un insecticide suspect</title>
+  <description>Le ministre de l'Agriculture va interdire l'importation des cerises traitées au diméthoate.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847471223-cerises-la-france-lespagne-et-litalie-interdisent-un-insecticide-suspect-1214553.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Discours bancaire : le retour de la prudence</title>
+  <description>Le secteur bancaire veut adapter son discours publicitaire à une France où le rapport à l'argent reste un sujet sensible.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Véronique Richebois</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021842445117-discours-bancaire-le-retour-de-la-prudence-1214532.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214532_discours-bancaire-le-retour-de-la-prudence-web-021845777841.jpg"/>
+</item>
+
+<item>
+  <title>Les hôteliers veulent boycotter la taxe de séjour pendant l'Euro 2016</title>
+  <description>Tourisme : Les hôteliers de la principale organisation patronale du secteur, l'Umih, et du GNC (chaînes hôtelières) appellent leurs adhérents à boycotter le versement de la taxe de séjour aux municipalités pendant l'Euro de football 2016, pour protester contre le partenariat entre l'UEFA et la...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martine Robert</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847633722-les-hoteliers-veulent-boycotter-la-taxe-de-sejour-pendant-leuro-2016-1214535.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214535_les-hoteliers-veulent-boycotter-la-taxe-de-sejour-pendant-leuro-2016-web-021847691566.jpg"/>
+</item>
+
+<item>
+  <title>Automobile : le marché européen retrouve son niveau d'avant-crise</title>
+  <description>AUTOMOBILE : Sur les trois premiers mois de 2016, le marché européen des voitures neuves a enregistré une croissance de 9,3 %, à 13,7 millions d'unités, revenant quasiment à son niveau d'avant-crise. Pour l'ensemble de 2016, cependant, l'Association des constructeurs automobiles européens table...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847472051-automobile-le-marche-europeen-retrouve-son-niveau-davant-crise-1214460.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>OGM : le maïs MON810 reste interdit malgré la décision du Conseil d'Etat</title>
+  <description>Agriculture : Le maïs génétiquement modifié de Monsanto MON810 reste interdit en France, malgré l'annulation de son interdiction vendredi par le Conseil d'Etat. Selon les ministères de l'Agriculture et de l'Environnement, une directive de 2015, transposée en novembre en droit français, autorise...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marie-Josée Cougard</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021845579345-ogm-le-mais-mon810-reste-interdit-malgre-la-decision-du-conseil-detat-1214453.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Parkeon repris par le fonds Astorg</title>
+  <description>TRANSPORT : Le numéro un mondial des horodateurs a été repris par le fonds Astorg pour un montant non divulgué. En vente depuis l'été dernier, cette ancienne filiale de Schlumberger emploie environ 530 salariés en France et réalise 225 millions d'euros de chiffre d'affaires. Elle se développe dans...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Ducruet</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847471950-parkeon-repris-par-le-fonds-astorg-1214431.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214431_parkeon-repris-par-le-fonds-astorg-web-021847639678.jpg"/>
+</item>
+
+<item>
+  <title>Berlusconi aurait une offre chinoise pour l'AC Milan</title>
+  <description>Football : Le président de l'AC Milan, Silvio Berlusconi, a reçu une offre de Chine pour le rachat d'une part majoritaire du club lombard. La signature d'un accord pourrait intervenir prochainement, selon des médias italiens. L'offre porterait sur 70 % des parts, pour 400 à 700 millions d'euros....</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847634220-berlusconi-aurait-une-offre-chinoise-pour-lac-milan-1214526.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214526_berlusconi-aurait-une-offre-chinoise-pour-lac-milan-web-021847691606.jpg"/>
+</item>
+
+<item>
+  <title>Ligue de football : Frédéric Thiriez se retire</title>
+  <description>Sport : Le président de la Ligue de football professionnel française, Frédéric Thiriez, a annoncé vendredi lors d'une assemblée générale qu'il se « retirait dès aujourd'hui pour laisser la place à la génération suivante ». Avec la réforme de sa gouvernance, votée vendredi à l'unanimité, « une...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Palierse</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_industrie_et_services/021847633244-ligue-de-football-frederic-thiriez-se-retire-1214448.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214448_ligue-de-football-frederic-thiriez-se-retire-web-021847639746.jpg"/>
+</item>
+
+<item>
+  <title>Photo : la chute des ventes pousse les fabricants vers le haut de gamme</title>
+  <description>Le compact d'entrée de gamme s'efface, concurrencé par le smartphone. Les appareils hybrides, nettement plus chers, ont, en revanche, le vent en poupe.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sebastien Dumoulin</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021845886766-photo-la-chute-des-ventes-pousse-les-fabricants-vers-le-haut-de-gamme-1214433.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214433_021847062188_web_tete.jpg"/>
+</item>
+
+<item>
+  <title>Les modèles qui font de la résistance</title>
+  <description/>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021846010282-les-modeles-qui-font-de-la-resistance-1214482.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214482_les-modeles-qui-font-de-la-resistance-web-021845961209.jpg"/>
+</item>
+
+<item>
+  <title>La concurrence toujours plus vive des « photophones »</title>
+  <description>Huawei, LG et HTC ont mis l'accent sur les capacités photo de leurs derniers smartphones haut de gamme.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Romain Gueugneau</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Tech - Médias</category>
+  <link>http://www.lesechos.fr/tech-medias/hightech/021847450320-la-concurrence-toujours-plus-vive-des-photophones-1214471.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>France Télévisions : un très léger retour à l'équilibre en 2015</title>
+  <description>Le groupe a dégagé un mini-bénéfice net, pour la première fois depuis 2012. Mais le résultat d'exploitation est négatif, et la pub moins forte que prévu.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marina Alcaraz</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021845701572-france-televisions-un-tres-leger-retour-a-lequilibre-en-2015-1214495.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214495_france-televisions-un-tres-leger-retour-a-lequilibre-en-2015-web-021845658612.jpg"/>
+</item>
+
+<item>
+  <title>Michel Field tente d'apaiser la crise en interne</title>
+  <description>La motion de défiance contre le patron de l'info qui sera soumise au vote mardi sera un premier test crucial pour la direction.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marina Alcaraz</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021845701765-michel-field-tente-dapaiser-la-crise-en-interne-1214475.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Quand GoPro s'inspire d'Apple</title>
+  <description>Le fabricant de mini- caméras tente de donner un nouveau souffle à son modèle et à ses produits.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Richaud</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/sciences-prospective/021845410557-quand-gopro-sinspire-dapple-1214483.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214483_quand-gopro-sinspire-dapple-web-tete-021845658815.jpg"/>
+</item>
+
+<item>
+  <title>Orange se renforce dans la cybersécurité</title>
+  <description>Orange a finalisé vendredi l'acquisition de la société de conseil, d'audit et de formation en cybersécurité Lexsi auprès de la société d'investissement Argos Soditic. Créée en 1999, Lexsi affiche un chiffre d'affaires annuel de 23 millions d'euros et emploie plus de 170 experts. Le montant de la...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexandre Counis</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021847651567-orange-se-renforce-dans-la-cybersecurite-1214499.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214499_orange-se-renforce-dans-la-cybersecurite-web-021847873301.jpg"/>
+</item>
+
+<item>
+  <title>Les séries TV auront bientôt leur festival</title>
+  <description>La ministre de la Culture, Audrey Azoulay (photo), l'a annoncé vendredi : la France va créer dès 2017 un grand festival international des séries, avec l'aide de la Ville de Paris, de celle de Fontainebleau, et de la région Ile-de-France. Pour l'instant, il existe plutôt, dans le monde, des...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexandre Counis</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021847735043-les-series-tv-auront-bientot-leur-festival-1214536.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214536_les-series-tv-auront-bientot-leur-festival-web-021847873337.jpg"/>
+</item>
+
+<item>
+  <title>1.439 / demandes de retrait</title>
+  <description>Depuis mars 2015, date depuis laquelle un membre de la Cnil contrôle l'action du ministère de l'Intérieur contre le terrorisme et la pédopornographie, 1.439 demandes de retrait de contenus lui sont parvenues, dont 1.286 pour des sites à caractère...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Rauline</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021845852337-1439-demandes-de-retrait-1214533.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Twitter recrute en Chine</title>
+  <description>Twitter explore toutes les pistes pour générer plus de croissance. La société américaine a engagé une responsable pour diriger son activité chinoise... alors que le service reste, officiellement, bloqué en Chine. Kathy Chen (ex-Microsoft), basée à Hong Kong, sera chargée de démarcher les annonceurs...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Rauline</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021845435390-twitter-recrute-en-chine-1214465.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214465_twitter-recrute-en-chine-web-021845658731.jpg"/>
+</item>
+
+<item>
+  <title>Nouvel appel d'offres sur les droits du Top 14</title>
+  <description>Souhaitant tenir compte des « évolutions récentes dans le secteur des chaînes de télé titulaires de droits sportifs » (avec notamment le rapprochement annoncé de Canal+ et BeIn), la Ligue nationale de rugby a lancé vendredi un appel d'offres sur les droits audiovisuels du Top 14
+pour les saisons de...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexandre Counis</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021847651679-nouvel-appel-doffres-sur-les-droits-du-top-14-1214454.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214454_nouvel-appel-doffres-sur-les-droits-du-top-14-web-021847796780.jpg"/>
+</item>
+
+<item>
+  <title>287.323 / albums vendus pour renaud</title>
+  <description>Retour réussi pour Renaud. Son nouvel album, intitulé sobrement « Renaud », s'est écoulé à 287.323 exemplaires lors de sa première semaine d'exploitation. Un démarrage comme le secteur n'en avait plus connu en France depuis plus de dix...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021845785547-287323-albums-vendus-pour-renaud-1214427.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Mariage en vue dans la visioconférence</title>
+  <description>Le fonds activiste Elliott Management aura eu gain de cause : Mitel, le géant canadien des communications pour entreprises, a annoncé vendredi la conclusion d'un accord pour acquérir son rival américain Polycom pour 1,96 milliard de dollars, en cash et en actions. Elliott Management poussait au...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexandre Counis</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_high_tech_et_medias/021847734877-mariage-en-vue-dans-la-visioconference-1214519.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214519_mariage-en-vue-dans-la-visioconference-web-021847796866.jpg"/>
+</item>
+
+<item>
+  <title>Comment l'innovation façonne le nouveau visage de Shenzhen</title>
+  <description>La hausse des salaires remet en cause le modèle de sous-traitance à bas coût. Les start-up apportent aujourd'hui de nouveaux débouchés aux usines de la région chinoise.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alain Ruello</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/sciences-prospective/021842028453-comment-linnovation-faconne-le-nouveau-visage-de-shenzhen-1214508.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214508_comment-linnovation-faconne-le-nouveau-visage-de-shenzhen-web-tete-021845495817.jpg"/>
+</item>
+
+<item>
+  <title>Cypheme en croisade contre la contrefaçon</title>
+  <description>La start-up couple étiquette spéciale et application mobile pour garantir l'origine d'un produit.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alain Ruello</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_startup/021842028222-cypheme-en-croisade-contre-la-contrefacon-1214520.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214520_cypheme-en-croisade-contre-la-contrefacon-web-021845495916.jpg"/>
+</item>
+
+<item>
+  <title>Jean-Marc Patouillaud : L'ère des « bots »</title>
+  <description>Supérieur à 7,6 milliards, le nombre de connexions mobiles dépasse celui des habitants de la planète. On passe en moyenne trois heures par jour sur son mobile, principalement à surfer sur des applications. Eldorado des start-up, le mobile est un marché massivement soutenu par le venture capital,...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_startup/021844771667-jean-marc-patouillaud-lere-des-bots-1214456.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214456_jean-marc-patouillaud-lere-des-bots-web-021845495629.jpg"/>
+</item>
+
+<item>
+  <title>L'APPLI</title>
+  <description>La French Tech a un représentant aux Webby Awards. Ces prix, décernés depuis 1996 par l'International Academy of Digital Arts and Sciences, récompensent les meilleurs projets créatifs sur le Net, dans le monde. Pop Corn Garage a été nommé dans la catégorie « jeux ». Ce jeu en ligne a été développé...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Rauline</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_startup/021845584401-lappli-1214421.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>25 / millions de dollars</title>
+  <description>La start-up britannique Onfido, spécialisée dans la vérification d'identités, a levé 25 millions de dollars, auprès du fonds français Idinvest, de Wellington Partners et de...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Rauline</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_startup/021845852453-25-millions-de-dollars-1214484.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>REBOND</title>
+  <description>Les « hamburgés » de Big Fernand vont désormais voyager à vélo. La franchise de restauration a choisi Take Eat Easy pour livrer ses produits en France en trente minutes, dans les villes où l'enseigne est présente. La start-up belge compte un millier de partenaires restaurants en France et en Europe...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume Bregeras</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_startup/021845258467-rebond-1214504.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Bras de fer entre le chantier de La Ciotat et ses entreprises</title>
+  <description>Un appel d'offres pour l'exploitation des installations de réparation navale du port de La Ciotat vient d'être lancé. Les industriels craignent l'arrivée d'un nouvel opérateur.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Molga</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_pme_et_regions/021827307173-bras-de-fer-entre-le-chantier-de-la-ciotat-et-ses-entreprises-1214544.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214544_bras-de-fer-entre-le-chantier-de-la-ciotat-et-ses-entreprises-web-tete-021845222081.jpg"/>
+</item>
+
+<item>
+  <title>Services maritimes : le groupe SeaOwl étend son offre avec Well Staff</title>
+  <description>Le groupe se dote d'un pôle de services aux industries de l'énergie en mer.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dominique Malecot</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_pme_et_regions/021834759826-services-maritimes-le-groupe-seaowl-etend-son-offre-avec-well-staff-1214430.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214430_services-maritimes-le-groupe-seaowl-etend-son-offre-avec-well-staff-web-021845526497.jpg"/>
+</item>
+
+<item>
+  <title>Pneumatique : Michelin conforte sa tréfilerie de Golbey</title>
+  <description>Le groupe investit 19 millions d'euros et recrute 65 personnes.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pascal Ambrosi</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>PME - Régions</category>
+  <link>http://www.lesechos.fr/pme-regions/021822739095-pneumatique-michelin-conforte-sa-trefilerie-de-golbey-1214500.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214500_pneumatique-michelin-conforte-sa-trefilerie-de-golbey-web-021845258047.jpg"/>
+</item>
+
+<item>
+  <title>Naissance agitée pour Kaysersberg</title>
+  <description>Alsace : La naissance de la commune nouvelle de Kaysersberg-Vignoble, créée au premier janvier, fusion de Kaysersberg, Sigolsheim et Kientzheim, tangue. 19 membres du conseil municipal, soit un tiers de l'assemblée, ont officialisé vendredi leur démission, critiquant les abus de pouvoir du maire...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_pme_et_regions/021844937040-naissance-agitee-pour-kaysersberg-1214530.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214530_naissance-agitee-pour-kaysersberg-web-021845495584.jpg"/>
+</item>
+
+<item>
+  <title>My Media Group s'offre Synodiance</title>
+  <description>Pays de la Loire : My Media Group, qui se présente comme le premier groupe de performance marketing, reprend le nantais Synodiance pour 12 millions d'euros. Créé en 1999 par Christophe Rozuel, Synodiance est aujourd'hui un des leaders en France dans le domaine du conseil en référencement naturel....</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Emmanuel Guimard</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_pme_et_regions/021844834344-my-media-group-soffre-synodiance-1214505.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Pétrole : la rivalité Riyad-Téhéran a empêché un gel de la production</title>
+  <description>Les grands producteurs ont échoué à s'accorder sur un plafonnement. Riyad voulait que l'ensemble de l'Opep, Iran compris, s'associe.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Muryel Jacque</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021847548255-petrole-la-rivalite-riyad-teheran-a-empeche-un-gel-de-la-production-1214479.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214479_petrole-la-rivalite-riyad-teheran-a-empeche-un-gel-de-la-production-web-tete-021847712602.jpg"/>
+</item>
+
+<item>
+  <title>Il a dit</title>
+  <description/>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021847804922-il-a-dit-1214415.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214415_il-a-dit-web-021847838071.jpg"/>
+</item>
+
+<item>
+  <title>Le prix du baril a enregistré un rebond de 30 % depuis février</title>
+  <description>Après avoir touché leur plus bas niveau depuis treize ans en janvier sous 30 dollars le baril, les cours du pétrole ont enregistré un rebond spectaculaire ces dernières semaines. Mercredi dernier, ils ont atteint leur plus haut niveau depuis quatre mois. Mais le prix du WTI comme celui du brent,...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021847451157-le-prix-du-baril-a-enregistre-un-rebond-de-30-depuis-fevrier-1214440.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214440_021847064482_web_tete.jpg"/>
+</item>
+
+<item>
+  <title>Les réserves de change ont fondu de 315 milliards de dollars</title>
+  <description>La chute du baril entamée en juin 2014 a coûté cher aux pays producteurs, Selon des données réunies par Bloomberg, les réserves financières des dix-huit pays concernés par l'accord de Doha ont fondu de 315 milliards de dollars depuis novembre 2014. Rien que sur les trois derniers mois de 2015, la...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anne Feitz</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845685321-les-reserves-de-change-ont-fondu-de-315-milliards-de-dollars-1214529.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214529_021847064178_web.jpg"/>
+</item>
+
+<item>
+  <title>La production américaine a résisté longtemps à la chute des forages</title>
+  <description>Alors que le nombre de forages pétroliers aux Etats-Unis accuse une chute spectaculaire depuis l'automne 2014, ayant atteint cette semaine son plus bas historique, la production de pétrole outre-Atlantique a mis du temps à s'infléchir. Car les producteurs de schiste ont fait preuve d'une résistance...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anne Feitz</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845934686-la-production-americaine-a-resiste-longtemps-a-la-chute-des-forages-1214435.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214435_021847062426_web.jpg"/>
+</item>
+
+<item>
+  <title>Les « hedge funds » ont récemment augmenté leurs paris à la baisse</title>
+  <description>Sur les marchés à terme, les investisseurs spéculatifs ont surfé sur les rumeurs ces dernières semaines, dans l'attente du sommet de Doha. Début avril, quinze jours avant le meeting, les « hedge funds », dont les positions avaient contribué à soutenir les cours du pétrole à la hausse depuis...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021847450829-les-hedge-funds-ont-recemment-augmente-leurs-paris-a-la-baisse-1214540.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214540_021847062650_web_tete.jpg"/>
+</item>
+
+<item>
+  <title>Les banques dans la tourmente des fraudes au président</title>
+  <description>Une cour d'appel a confirmé la condam- nation du CIC. La banque doit rem- bourser les sommes perdues par une entreprise victime d'une escroquerie.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Veronique Chocron et Laurent Thevenin</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845466904-les-banques-dans-la-tourmente-des-fraudes-au-president-1214449.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>L'accès aux crédits s'améliore nettement pour les TPE</title>
+  <description>Au premier trimestre, les microentreprises affirment avoir obtenu les crédits en trésorerie demandés à leur banque dans 68 % des cas, selon les chiffres de la Banque de France. Les plus petites entreprises restent, dans l'ensemble, moins bien traitées que les PME.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Edouard Lederer</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845277951-lacces-aux-credits-sameliore-nettement-pour-les-tpe-1214441.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214441_021847062518_web.jpg"/>
+</item>
+
+<item>
+  <title>StockTwits : le « Twitter » des boursicoteurs</title>
+  <description>Le réseau social StockTwits est devenu l'un des favoris des spéculateurs.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nessim Ait-Kacimi</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845341893-stocktwits-le-twitter-des-boursicoteurs-1214515.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214515_021847066200_web_tete.jpg"/>
+</item>
+
+<item>
+  <title>Financement : les innovations se poursuivent</title>
+  <description>Les fonds Novi, portés par le CDC, innovent en misant sur le « multifinancement », sous forme de dette, mais aussi de fonds propres.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Edouard Lederer</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/sciences-prospective/021845591194-financement-les-innovations-se-poursuivent-1214478.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les FinTech portées par les marchés émergents</title>
+  <description>Selon une étude de Capgemini et de l'Efma, près de deux tiers des clients utilisent les services des acteurs financiers alternatifs dans le monde. Un score dû principalement aux usages des pays émergents.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sharon Wajsbrot</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/021845320029-les-fintech-portees-par-les-marches-emergents-1214538.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214538_021847065856_web.jpg"/>
+</item>
+
+<item>
+  <title>La Chine, paradis de la finance en ligne</title>
+  <description>Alibaba, Tencent et Baidu ont fait de la finance un de leurs axes stratégiques.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alain Ruello</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Finance - Marchés</category>
+  <link>http://www.lesechos.fr/finance-marches/banque-assurances/021847445713-la-chine-paradis-de-la-finance-en-ligne-1214485.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>M&amp;A : le ténor britannique des deals « tech » GP Bullhound arrive en France</title>
+  <description>La banque d'affaires veut profiter de l'envolée des fusions et levées de fonds dans l'Hexagone. Elle vise notamment les fonds étrangers intéressés par les start-up de la FrenchTech.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anne Drif</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021842689445-ma-le-tenor-britannique-des-deals-tech-gp-bullhound-arrive-en-france-1214486.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>La Bourse de Paris reste aux portes des 4.500 points</title>
+  <description>La Bourse de Paris a terminé en légère baisse vendredi. Les investisseurs ont limité la prise de risques après cinq jours de hausse. Ils attendaient en outre une réunion entre une quinzaine de pays producteurs de pétrole au Qatar dimanche.
+Dans leur ensemble, les indices boursiers européens ont...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845873144-la-bourse-de-paris-reste-aux-portes-des-4500-points-1214416.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214416_021847066134_web.jpg"/>
+</item>
+
+<item>
+  <title>Au Japon, les taux négatifs alimentent la fièvre de l'or</title>
+  <description>Les ventes d'or ont bondi de 35 % dans l'Archipel au premier trimestre.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yann Rousseau</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021847451474-au-japon-les-taux-negatifs-alimentent-la-fievre-de-lor-1214554.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Les banques grecques font grimper la Bourse d'Athènes</title>
+  <description>Les valeurs bancaires grecques ont bondi à la Bourse d'Athènes. La raison ? Un représentant de la BCE a fait savoir que les banques du pays pourront se délester des obligations du Fonds de stabilité européen (FESF) qu'elles détiennent en les cédant à la banque centrale, dans le cadre du programme...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_finance_et_marches/021845937263-les-banques-grecques-font-grimper-la-bourse-dathenes-1214477.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214477_021847064680_web.jpg"/>
+</item>
+
+<item>
+  <title>Alexandre Jardin Fondateur du mouvement Bleu, Blanc, Zèbre</title>
+  <description>L'intervention de François Hollande : « C'est exactement ce qui ne nous intéresse pas. Nous ne demandons plus rien en haut, nous demandons aux Français de se prendre en main, de faire leur part. Qu'ils soient entrepreneurs, militants associatifs ou élus locaux, on cherche les vivants qui bougent...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pascal Pogam</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Journal</category>
+  <link>http://www.lesechos.fr/journal20160418/lec2_crible/021844796273-alexandre-jardin-fondateur-du-mouvement-bleu-blanc-zebre-1214432.php#xtor=RSS-37</link>
+</item>
+
+<item>
+  <title>Apaisement diplomatique</title>
+  <description>Citigroup devra continuer de faire valoir ses efforts de réorganisation.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/crible/021845806240-apaisement-diplomatique-1214534.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214534_021847064072_web.jpg"/>
+</item>
+
+<item>
+  <title>Marissa Mayer</title>
+  <description>La mode est au burkini mais c'est en short que Yahoo! va se retrouver. La star du Web des années 1990 s'apprête à se défaire sans gloire de tous ses oripeaux. Tout est à vendre, le portail sort par la petite porte. On ne peut pas être et avoir été. L'adage convient au groupe lui-même, il s'applique...</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sabine Delanglade</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/en-vue/021845275935-marissa-mayer-1214498.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214498_marissa-mayer-web-021845221176.jpg"/>
+</item>
+
+<item>
+  <title>La semaine du blanc</title>
+  <description>Le désengagement d' Eurazeo élargit le flottant d' Elis en Bourse au bon moment.</description>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Les Echos</dc:creator>
+  <pubDate>Mon, 18 Apr 2016 01:00:00 +0200</pubDate>
+  <category>Idées - Débats</category>
+  <link>http://www.lesechos.fr/idees-debats/crible/021846157224-la-semaine-du-blanc-1214428.php#xtor=RSS-37</link>
+  <enclosure type="image/jpg" url="http://www.lesechos.fr/medias/2016/04/18/1214428_021847894814_web_tete.jpg"/>
+</item>
+</channel>
+</rss>

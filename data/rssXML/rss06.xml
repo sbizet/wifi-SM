@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Monde.fr - Actualité à la Une</title>
+    <description>Le Monde.fr - 1er site d'information. Les articles du journal et toute l'actualité en continu : International, France, Société, Economie, Culture, Environnement, Blogs ...</description>
+    <copyright>Copyright Le Monde.fr</copyright>
+    <link>http://www.lemonde.fr/rss/une.xml</link>
+    <atom:link href="http://www.lemonde.fr/rss/une.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Apr 2016 14:08:24 +0200</pubDate>
+    <image>
+      <url>http://www.lemonde.fr/mmpub/img/lgo/lemondefr_rss.gif</url>
+      <title>Le Monde.fr - Actualité à la Une</title>
+      <link>http://www.lemonde.fr/rss/une.xml</link>
+    </image>
+    <item>
+      <link>http://www.lemonde.fr/ameriques/article/2016/04/18/les-deputes-bresiliens-se-prononcent-pour-la-destitution-de-dilma-rousseff_4903914_3222.html#xtor=RSS-3208</link>
+      <title>Au Brésil, la descente aux enfers de Dilma Rousseff</title>
+      <description>Dilma Rousseff est accusée d’avoir enjolivé les comptes publics, mais elle paie surtout ses erreurs politiques.</description>
+      <pubDate>Mon, 18 Apr 2016 04:09:44 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4903914/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4904170_3_5149_supporters-of-the-impeachment-of-brazilian_b93118f35d7f9b3245c2afecda2f7473.jpg" type="image/jpeg" length="55574"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/europe/article/2016/04/18/en-espagne-le-vote-de-la-derniere-chance_4903938_3214.html#xtor=RSS-3208</link>
+      <title>En Espagne, les militants de Podemos rejettent une alliance avec les socialistes et les centristes</title>
+      <description>88,2 % des militants de Podemos ont voté contre l’accord signé entre le PSOE et Ciudadanos en vue de former un gouvernement.</description>
+      <pubDate>Mon, 18 Apr 2016 06:45:36 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4903938/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904219_3_4e0d_leader-of-podemos-political-party-pablo_c42916e8858ee506c361c5b743bba48a.jpg" type="image/jpeg" length="31913"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/afrique/article/2016/04/18/guinee-les-femmes-et-les-enfants-victimes-collaterales-d-ebola_4904198_3212.html#xtor=RSS-3208</link>
+      <title>Guinée : les femmes et les enfants, victimes collatérales d’Ebola</title>
+      <description>L’épidémie, qui a fait 2 500 victime en deux ans et dont le pays peine à sortir, a fait voler en éclats une légère amélioration de la mortalité materno-infantile.</description>
+      <pubDate>Mon, 18 Apr 2016 12:33:39 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904198/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4904195_3_a289_dans-un-hopital-de-guinee-en-2016_0ecdf3d1afbf69a42a917d93ed17b88e.jpg" type="image/jpeg" length="71532"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/politique/article/2016/04/18/denis-baupin-quitte-europe-ecologie-les-verts_4904149_823448.html#xtor=RSS-3208</link>
+      <title>Denis Baupin quitte Europe Ecologie-Les Verts</title>
+      <description>Le vice-président de l’Assemblée nationale annonce qu’il ne partage plus « les choix stratégiques » d’EELV.</description>
+      <pubDate>Mon, 18 Apr 2016 11:44:05 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904149/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904148_3_3c03_denis-baupin-le-vice-president-de_8afd45ef75ff5e32fc710fec3e011559.jpg" type="image/jpeg" length="17094"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/pixels/article/2016/04/18/une-heure-avec-les-hologrammes-de-hololens_4904208_4408996.html#xtor=RSS-3208</link>
+      <title>Une heure avec les « hologrammes » de HoloLens</title>
+      <description>Coiffés du casque de réalité augmentée de Microsoft, nous avons apprivoisé un écureuil de dessin animé, visité Rome et enquêté sur une mystérieuse scène de crime.</description>
+      <pubDate>Mon, 18 Apr 2016 12:34:31 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904208/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4904200_3_7560_dans-le-jeu-fragments-une-enquete-sur-une_34c4ab555f8d93c1faa9919e3f6c4b95.jpg" type="image/jpeg" length="37675"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/politique/article/2016/04/18/laurent-fabius-presente-ses-projets-pour-le-conseil-constitutionnel_4903997_823448.html#xtor=RSS-3208</link>
+      <title>Laurent Fabius présente ses projets pour le Conseil constitutionnel</title>
+      <description>Dans un entretien au « Monde », le nouveau président de l’institution estime qu’« il serait logique » que la présence des anciens présidents de la République « soit supprimée ».</description>
+      <pubDate>Mon, 18 Apr 2016 09:13:39 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4903997/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4903996_3_a096_laurent-fabius-se-fixe-trois-objectifs-pour_4efab80760a2375edfc1290b39fa7350.jpg" type="image/jpeg" length="33693"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/cgt/article/2016/04/16/dans-le-paysage-syndical-la-premiere-place-de-la-cgt-menacee_4903379_4550284.html#xtor=RSS-3208</link>
+      <title>Dans le paysage syndical, la première place de la CGT est menacée</title>
+      <description>Confrontée à des revers dans plusieurs bastions, la centrale syndicale est menacée par la CFDT.</description>
+      <pubDate>Sat, 16 Apr 2016 09:41:34 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4903379/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/16/644x322/4903378_3_3ed0_des-militants-de-la-cgt-pendant-la_cc3bd36f50f2300a179645dc476834b8.jpg" type="image/jpeg" length="30837"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/planete/article/2016/04/18/seisme-le-japon-redoute-des-reactions-en-chaine_4904067_3244.html#xtor=RSS-3208</link>
+      <title>Séisme : le Japon redoute des réactions en chaîne</title>
+      <description>Les sismologues japonais estiment que les secousses réparties dans trois régions distinctes se sont peut-être stimulées.</description>
+      <pubDate>Mon, 18 Apr 2016 10:56:09 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904067/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904066_3_15a4_in-this-saturday-april-16-2016-photo-a_307ab46e6bd98b52bd6e65ba5194bed7.jpg" type="image/jpeg" length="36002"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/planete/article/2016/04/18/l-equateur-endeuille-apres-son-pire-seisme-depuis-quarante-ans_4903912_3244.html#xtor=RSS-3208</link>
+      <title>L’Equateur endeuillé à la suite de son pire séisme depuis quarante ans</title>
+      <description>Le bilan de la catastrophe, survenue samedi peu avant 19 heures, heure locale, a été revu à la hausse. Il est désormais d’au moins 272 morts et plus de 2 000 blessés.</description>
+      <pubDate>Mon, 18 Apr 2016 03:47:30 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4903912/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4903911_3_fe73_la-ville-de-pedernales-proche-de-l-epicentre_c5d3126d7d702cdf51c776fda6740d05.jpg" type="image/jpeg" length="42155"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/afrique/article/2016/04/18/gambie-l-onu-demande-l-ouverture-d-une-enquete-apres-le-deces-de-trois-opposants_4904098_3212.html#xtor=RSS-3208</link>
+      <title>Gambie : l’ONU demande l’ouverture d’une enquête après le décès de trois opposants</title>
+      <description>Les manifestations organisées pour dénoncer la réforme électorale et l’arrestation d’opposants ont été violemment réprimées.</description>
+      <pubDate>Mon, 18 Apr 2016 11:19:31 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904098/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904096_3_2371_manifestation-samedi-16-avril-a-serrekunda_ff1ca0f32a311182ea481ecc0073ca30.jpg" type="image/jpeg" length="56507"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/elections-americaines/article/2016/04/18/primaires-americaines-clooney-justifie-les-levees-de-fonds-indecentes-pour-le-parti-democrate_4904188_829254.html#xtor=RSS-3208</link>
+      <title>Primaires américaines : Clooney dénonce les levées de fonds « indécentes », tout en les justifiant</title>
+      <description>L’acteur explique que ces fonds bénéficient à Hillary Clinton mais aussi aux candidats démocrates au Congrès.</description>
+      <pubDate>Mon, 18 Apr 2016 12:08:11 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904188/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4904179_3_605b_pour-mettre-fin-a-l-afflux-d-argent-dans-la-po_0bc90d1d1aa1b800ff66723335aec1dd.jpg" type="image/jpeg" length="26665"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/societe/article/2016/04/18/un-rapport-preconise-de-permettre-aux-jeunes-de-beneficier-des-minima-sociaux-des-18-ans_4904070_3224.html#xtor=RSS-3208</link>
+      <title>Un rapport préconise de permettre aux jeunes de bénéficier des minima sociaux dès 18 ans</title>
+      <description>Le député Christophe Sirugue remet à Manuel Valls un rapport dans lequel il recommande de fusionner les différents minima sociaux.</description>
+      <pubDate>Mon, 18 Apr 2016 10:56:55 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904070/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904069_3_a64d_le-depute-socialiste-christophe-sirugue_c4e6ccc538de60d21ed4b4287c555a4d.jpg" type="image/jpeg" length="28488"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/societe/article/2016/04/18/a-mayotte-les-barrages-ont-ete-leves_4903980_3224.html#xtor=RSS-3208</link>
+      <title>A Mayotte, les barrages ont été levés</title>
+      <description>Dans le climat d’extrême tension que connaît l’archipel, les représentants de l’intersyndicale ont estimé que la poursuite du mouvement pouvait déraper.</description>
+      <pubDate>Mon, 18 Apr 2016 07:43:54 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4903980/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4903979_3_f72a_le-gouvernement-a-decide-que-l-application-a-m_dbaafa5dbbc881aa120ff4858f809d9a.jpg" type="image/jpeg" length="62223"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/afrique/article/2016/04/18/soudan-du-sud-riek-machar-redevient-vice-president-pour-construire-la-paix_4904010_3212.html#xtor=RSS-3208</link>
+      <title>Soudan du Sud : Riek Machar redevient vice-président pour construire la paix</title>
+      <description>Le chef rebelle est attendu lundi dans la capitale Juba où il doit prendre ses fonctions afin de mettre en œuvre l’accord de paix.</description>
+      <pubDate>Mon, 18 Apr 2016 09:40:14 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904010/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904025_3_6555_le-president-salva-kiir-et-son-rival-riek_9d37983e9a66b629b3a39edec0bdb4fd.jpg" type="image/jpeg" length="50341"/>
+    </item>
+    <item>
+      <link>http://bigbrowser.blog.lemonde.fr/2016/04/18/en-austraie-peine-dhumiliation-numerique-pour-johnny-depp-et-amber-heard/#xtor=RSS-3208</link>
+      <title>Peine d’humiliation numérique pour Johnny Depp et Amber Heard</title>
+      <description>Accusés d’avoir introduit illégalement leurs deux petits chiens en Australie, où les loi de « biosécurité » sont strictes, les acteurs ont eu droit à une peine clémente en échange d’un acte de contrition assez forcé.</description>
+      <pubDate>Mon, 18 Apr 2016 12:02:02 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904177/</guid>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/ligue-1/article/2016/04/18/vente-de-l-om-le-serpent-de-mer-des-annees-louis-dreyfus_4904047_1616940.html#xtor=RSS-3208</link>
+      <title>Vente de l’OM : le serpent de mer des années Louis-Dreyfus</title>
+      <description>En annonçant officiellement la mise en vente de l’OM, Margarita Louis-Dreyfus donne enfin corps à une rumeur qui a alimenté l’actualité du club pendant plusieurs années.</description>
+      <pubDate>Mon, 18 Apr 2016 10:43:08 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904047/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904046_3_88ef_jack-kachkar-le-31-janvier-2007-a-marseille_2d6ff6ed1105aea293897de100ee1ae7.jpg" type="image/jpeg" length="55246"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/economie-francaise/article/2016/04/18/le-vide-sanitaire-entre-en-vigueur-dans-les-exploitations-d-oies-et-de-canards-du-sud-ouest_4904004_1656968.html#xtor=RSS-3208</link>
+      <title>Dans le Sud-Ouest, oies et canards n’ont plus le droit de prendre l’air</title>
+      <description>La mesure de vide sanitaire est entrée en vigueur dans les exploitations. Elle a été décrétée par le gouvernement pour endiguer l’épizootie de grippe aviaire qui s’est déclarée fin novembre 2015.</description>
+      <pubDate>Mon, 18 Apr 2016 09:20:25 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904004/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4904003_3_cece_une-mesure-de-vide-sanitaire-entre-en-vigueur_21b15bfd3afc118d099e85c27803b473.jpg" type="image/jpeg" length="30900"/>
+    </item>
+    <item>
+      <link>http://lisamandel.blog.lemonde.fr/2016/04/18/vive-le-vent/#xtor=RSS-3208</link>
+      <title>La « jungle » de Calais en BD : idées noires et cerfs-volants</title>
+      <description>La dessinatrice Lisa Mandel et la sociologue Yasmine Bouagga racontent en bande dessinée le quotidien des camps de migrants.</description>
+      <pubDate>Mon, 18 Apr 2016 12:45:02 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904210/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904209_3_41db_2016-04-18-845b96a-19867-12f9mvn_202fad2f653de4ed15fd40c7f155a5b8.jpg" type="image/jpeg" length="42286"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/police-justice/article/2016/04/18/mort-d-un-detenu-dans-l-incendie-de-sa-cellule-a-la-maison-centrale-de-poissy_4904027_1653578.html#xtor=RSS-3208</link>
+      <title>Mort d’un détenu dans l’incendie de sa cellule à la maison centrale de Poissy</title>
+      <description>Cinq autres personnes – quatre membres du personnel pénitentiaire et un détenu – ont été intoxiquées, ont indiqué les pompiers lundi.</description>
+      <pubDate>Mon, 18 Apr 2016 10:31:57 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904027/</guid>
+      <enclosure url="http://s1.lemde.fr/image/2016/04/18/644x322/4904028_3_84de_le-feu-s-est-declare-peu-avant-21-heures-au-2e_35a09a1fdacae357e1530004b037f5f6.jpg" type="image/jpeg" length="27881"/>
+    </item>
+    <item>
+      <link>http://www.lemonde.fr/afrique/article/2016/04/18/la-chine-la-france-et-l-afrique-cherchent-a-batir-une-relation-de-confiance_4904042_3212.html#xtor=RSS-3208</link>
+      <title>La Chine, la France et l’Afrique cherchent à bâtir une relation de confiance</title>
+      <description>Le partenariat tripartite, qui doit investir dans les domaines de l’énergie ou la santé, a fait quelques avancées lors de la tenue d’un forum d’affaires, le 12 avril à Pékin.</description>
+      <pubDate>Mon, 18 Apr 2016 10:42:08 +0200</pubDate>
+      <guid isPermaLink="true">http://www.lemonde.fr/tiny/4904042/</guid>
+      <enclosure url="http://s2.lemde.fr/image/2016/04/18/644x322/4904040_3_1a3a_le-president-du-nigeria-muhammadu-buhari-et_07ff90bb30c0a88c9d97c28f7fa63466.jpg" type="image/jpeg" length="30529"/>
+    </item>
+  </channel>
+</rss>

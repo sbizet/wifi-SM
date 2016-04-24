@@ -1,0 +1,50 @@
+connecté à : COM16
+0 s :  https://news.google.com/news?cf=all&hl=fr&pz=1&ned=fr&topic=n&output=rss
+2 s :  http://www.leparisien.fr/une/rss.xml#xtor=RSS-1481423633
+2 s :  https://www.mediapart.fr/articles/feed
+2 s :  http://www.lesechos.fr/rss/rss_articles_journal.xml
+3 s :  http://rss.lefigaro.fr/lefigaro/laune
+3 s :  http://www.france24.com/fr/actualites/rss
+3 s :  http://www.lemonde.fr/rss/une.xml
+4 s :  +++ OK   ATD14 OK   ATCN OK
+10 s :  nouveaux mots clés --- 
+10 s :  7 titres trouvés
+11 s :  +++ OK   ATD15 OK   ATCN OK
+12 s :  +++ OK   ATD14 OK   ATCN OK
+15 s :  5 titres trouvés
+java.lang.NullPointerException --- dauphiné libéré :     le dauphiné libéré trois voitures impliquées dans un accident mortel, l'a7  ; t = 15 s.
+15 s :  +++ OK   ATD15 OK   ATCN OK
+16 s :  +++ OK   ATD14 OK   ATCN OK
+21 s :  2 titres trouvés
+21 s :  +++ OK   ATD15 OK   ATCN OK
+23 s :  +++ OK   ATD14 OK   ATCN OK
+36 s :  0 titres trouvés
+48 s :  2 titres trouvés
+48 s :  +++ OK   ATD15 OK   ATCN OK
+50 s :  +++ OK   ATD14 OK   ATCN OK
+54 s :  4 titres trouvés
+55 s :  +++ OK   ATD15 OK   ATCN OK
+56 s :  +++ OK   ATD14 OK   ATCN OK
+62 s :  9 titres trouvés
+62 s :  +++ OK   ATD15 OK   ATCN OK
+63 s :  +++ OK   ATD14 OK   ATCN OK
+66 s :  0 titres trouvés
+73 s :  0 titres trouvés
+86 s :  5 titres trouvés
+86 s :  +++ OK   ATD15 OK   ATCN OK
+88 s :  +++ OK   ATD14 OK   ATCN OK
+96 s :  2 titres trouvés
+97 s :  +++ OK   ATD15 OK   ATCN OK
+98 s :  +++ OK   ATD14 OK   ATCN OK
+109 s :  3 titres trouvés
+java.lang.NullPointerException --- poissy :     cinq autres personnes – quatre membres du personnel pénitentiaire et un détenu – ont été  ; t = 109 s.
+109 s :  +++ OK   ATD15 OK   ATCN OK
+111 s :  +++ OK   ATD14 OK   ATCN OK
+115 s :  2 titres trouvés
+115 s :  +++ OK   ATD15 OK   ATCN OK
+117 s :  +++ OK   ATD14 OK   ATCN OK
+119 s :  nouveaux mots clés --- 
+119 s :  0 titres trouvés
+123 s :  nouveaux mots clés --- 
+123 s :  0 titres trouvés
+124 s :  0 titres trouvés

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>A la une – France 24 - L’Actualité Internationale 24h/24</title>
+    <link>http://www.france24.com/fr/actualites/rss</link>
+    <image>
+      <link>http://www.france24.com/fr/actualites/rss</link>
+      <title>A la une – France 24 - L’Actualité Internationale 24h/24</title>
+      <url>http://www.france24.com/bundles/aefhermesf24/img/france24-logo.png?version=20160329160255</url>
+    </image>
+    <description/>
+    <atom:link href="http://www.france24.com/fr/actualites/rss" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 18 Apr 2016 04:53:14 GMT</lastBuildDate>
+    <item>
+      <category>ÉQUATEUR</category>
+      <title>En images : l'Équateur frappé par un violent séisme, sa "plus grave tragédie depuis 67 ans"</title>
+      <link>http://www.france24.com/fr/201604-equateur-seisme-operations-secours-rescapes-decombres-manta</link>
+      <description>Les opérations de secours se poursuivent en Équateur où un séisme de magnitude 7,8 a fait au moins 272 morts et causé d'importants dégâts sur la côte ouest. "C'est la tragédie la plus grave depuis 67 ans", a affirmé le président Rafael Correa.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/20160418-equateur-seisme-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/20160418-equateur-seisme-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">7550129E-74EE-4E53-AA79-0A8055EEC184</guid>
+      <pubDate>Mon, 18 Apr 2016 04:53:14 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/20160418-equateur-seisme-m.jpg">Luis Acosta, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>BRÉSIL</category>
+      <title>Destitution de Dilma Rousseff : une bataille politico-judiciaire qui s'annonce longue</title>
+      <link>http://www.france24.com/fr/20160418-bresil-destitution-dilma-rousseff-deputes-senat-batailles-politiques-judiciaires</link>
+      <description>En votant pour la destitution de la présidente Dilma Rousseff, les députés brésiliens ont ouvert la voie à une procédure d'"impeachment", qui annonce une longe période de batailles politiques et judiciaires.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/roussef-new_0.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/roussef-new_0.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">74AA9A14-5915-49FB-89FD-46930EBFEF14</guid>
+      <pubDate>Mon, 18 Apr 2016 07:10:24 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/roussef-new_0.jpg">Evaristo Sa, AFP</source>
+      <author>David GORMEZANO</author>
+    </item>
+    <item>
+      <category>OPEP</category>
+      <title>Après l'échec de la réunion à Doha, les cours du pétrole dévissent</title>
+      <link>http://www.france24.com/fr/20160418-chute-cours-petrole-opep-doha-reunion-echec-iran-arabie-saoudite</link>
+      <description>Les discussions de Doha entre pays producteurs de pétrole se sont achevées dimanche sans se mettre d'accord sur un "gel" de la production. Conséquence : les cours du pétrole s'effondrent à l'ouverture des marchés asiatiques.  </description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/180416_oil.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/180416_oil.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">8A350ECC-3700-4644-9B4F-5CA7CDE46E67</guid>
+      <pubDate>Mon, 18 Apr 2016 05:37:51 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/180416_oil.jpg">Haidar Mohammed Ali, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>FOOTBALL</category>
+      <title>Foot européen : le Barça en perdition, la Juve et le Bayern bientôt couronnés</title>
+      <link>http://www.france24.com/fr/20160418-foot-europe-liga-barcelone-atletico-real-madrid-juventus-totti-bayern-om-monaco</link>
+      <description>Nouveau faux-pas du Barça, défait dimanche à domicile par Valence, qui relance totalement la Liga en Espagne, la Juventus creuse l'écart en tête en Serie A, tandis que le Bayern fonce vers le titre en Allemagne.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/barca_9q77a-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/barca_9q77a-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">098240A0-631F-4DD1-94C6-E086A568A6F0</guid>
+      <pubDate>Mon, 18 Apr 2016 10:56:18 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/barca_9q77a-m.jpg">Lluis Gene, AFP</source>
+      <author>Marc DAOU</author>
+    </item>
+    <item>
+      <category>ÉGYPTE</category>
+      <title>Vinci et Bouygues en charge de l'extension du métro au Caire </title>
+      <link>http://www.france24.com/fr/20160418-video-vinci-bouygues-metro-caire-extension-ligne3-egypte</link>
+      <description>Vinci et Bouygues ont remporté dimanche l'extension de la ligne 3 du métro au Caire, prolongeant ainsi leur mainmise sur le secteur depuis 35 ans en Égypte. Reportage sur le chantier d'un tronçon actuellement en construction.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/20160418-metro-caire.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/20160418-metro-caire.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">7EA6EFDD-F9B4-4A4C-A8B6-3006A0B8F29B</guid>
+      <pubDate>Mon, 18 Apr 2016 08:53:00 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/20160418-metro-caire.jpg">AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>BELGIQUE</category>
+      <title>Marche contre la terreur à Bruxelles en hommage aux victimes des attentats </title>
+      <link>http://www.france24.com/fr/20160417-marche-terreur-bruxelles-hommage-victimes-attentats-belgique-22-mars-molenbeek-daesh</link>
+      <description>Près de 7 000 habitants de Bruxelles ont défilé dimanche dans les rues de la capitale belge en hommage aux victimes des attentats du 22 mars, qui ont fait 32 morts. Une partie du cortège est passée par le quartier de Molenbeek. </description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016_bruxelles-marche-afp-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016_bruxelles-marche-afp-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">7DDBF32C-DF7B-47B0-83E1-253D99E12233</guid>
+      <pubDate>Sun, 17 Apr 2016 14:47:44 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016_bruxelles-marche-afp-m.jpg">Belga, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>SYRIE</category>
+      <title>Malgré la trêve, le négociateur en chef de l'opposition syrienne appelle à attaquer l'armée </title>
+      <link>http://www.france24.com/fr/20160417-syrie-negociateur-chef-opposition-syrienne-mohammad-allouche-armee</link>
+      <description>Mohammad Allouche, négociateur en chef de l'opposition syrienne et leader d'un important groupe rebelle, a appelé dimanche à mener de nouvelles attaques contre l'armée du régime, risquant fragiliser encore la trêve en vigueur.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/allouche.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/allouche.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">27E0A356-3599-4A38-B979-C3A4E6ED4A78</guid>
+      <pubDate>Sun, 17 Apr 2016 16:20:06 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/allouche.jpg">Fabrice Coffrini, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>CÔTE D'IVOIRE </category>
+      <title>Un deuxième auteur présumé des attaques de Grand-Bassam arrêté au Mali </title>
+      <link>http://www.france24.com/fr/20160417-deuxieme-auteur-attaques-grand-bassam-arrete-mali-cote-divoire-attentat-hotel-bamako</link>
+      <description>Le bras droit présumé du groupe responsable de l'attaque du 13 mars à Grand-Bassam, en Côte d'Ivoire, a été arrêté, dimanche, à Bamako par les services de renseignement maliens. Il est soupçonné d'avoir convoyé les membres du commando en voiture.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416_mali_ivory_coast.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416_mali_ivory_coast.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">EF6D672B-A107-4ABB-8234-59A1150AD72E</guid>
+      <pubDate>Sun, 17 Apr 2016 17:58:50 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416_mali_ivory_coast.jpg">Sia-Kambou, AFP (Archive)</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>LIBYE</category>
+      <title>En Libye, les Européens en quête d’un allié légitime pour lutter contre l’EI</title>
+      <link>http://www.france24.com/fr/20160417-libye-europe-quete-allie-legitime-lutte-ei-gouvernement-tripoli-al-sarraj-tobrouk-haftar</link>
+      <description>Inquiets de l’avancée des jihadistes de l’organisation de l’État islamique en Libye, les gouvernements européens veulent apporter leur soutien au nouveau gouvernement d’union, qui peine à s’imposer. 
+</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/eu-diplomats-libya.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/eu-diplomats-libya.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">E1FBC75E-DCC1-4EAF-A86E-96D3967C152B</guid>
+      <pubDate>Sun, 17 Apr 2016 15:19:08 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/eu-diplomats-libya.jpg">Mahmud Turkia, AFP</source>
+      <author>Mehdi CHEBIL</author>
+    </item>
+    <item>
+      <category>ÉGYPTE</category>
+      <title>Au Caire, Hollande souligne l'impératif des droits de l'Homme et froisse Sissi</title>
+      <link>http://www.france24.com/fr/20160417-caire-hollande-droits-homme-abdel-fattah-al-Sissi-eric-lang-giulio-regeni-egypte</link>
+      <description>En visite au Caire, François Hollande a estimé dimanche que la lutte contre le terrorisme ne pouvait s'affranchir du respect des droits de l'Homme, lors d'une conférence de presse commune avec son homologue Abdel Fattah al-Sissi, irrité par le sujet.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416_hollande_in_egypt.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416_hollande_in_egypt.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">333B0D21-89CA-470A-80BF-2AA225368C9E</guid>
+      <pubDate>Sun, 17 Apr 2016 20:12:21 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416_hollande_in_egypt.jpg">Khaled Desouki, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>FRANCE</category>
+      <title>Nuit debout : la parole à Varoufakis, pas à Finkielkraut</title>
+      <link>http://www.france24.com/fr/20160417-paris-nuit-debout-yanis-varoufakis-ministre-grece-finkielkraut-hue-republique</link>
+      <description>Plusieurs personnalités se sont rendues auprès du mouvement Nuit debout, samedi, à Paris. L'ex-ministre grec Yanis Varoufakis, y a reçu un accueil bienveillant, tandis que le philosophe Alain Finkielkraut a suscité des réactions houleuses.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/varoufakis_nuit_debout_paris.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/varoufakis_nuit_debout_paris.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">038133C3-7338-4609-8E4C-678141473280</guid>
+      <pubDate>Sun, 17 Apr 2016 10:03:39 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/varoufakis_nuit_debout_paris.jpg">Alain Jocard, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>ÉTATS-UNIS</category>
+      <title>Un avion militaire américain intercepté par un chasseur russe au-dessus de la mer Baltique</title>
+      <link>http://www.france24.com/fr/20160417-etats-unis-russie-defense-pentagone-denonce-dangereuses-manoeuvres-russes-baltique</link>
+      <description>Le Pentagone a dénoncé, samedi, l'interception de l'un de ses avions "de façon dangereuse et non professionnelle" lors d'un vol au-dessus de la mer Baltique. Plus tôt dans la semaine, des chasseurs russes avaient survolé un destroyer américain.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416-russia-jet-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416-russia-jet-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">1A597F3D-A8A2-471E-A075-11012E9B9D84</guid>
+      <pubDate>Sun, 17 Apr 2016 07:18:45 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/170416-russia-jet-m.jpg">US Navy, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>IRAN</category>
+      <title>Air France rouvre sa liaison Paris-Téhéran suspendue depuis 2008</title>
+      <link>http://www.france24.com/fr/20160417-air-france-reprise-vol-paris-teheran-iran-vidalies-avion-hotesse-voile-homosexuels</link>
+      <description>Air France a rouvert dimanche sa liaison Paris-Téhéran, suspendue depuis 2008 en raison des sanctions internationales contre l'Iran. La reprise des vols avec l'Iran avait créé une polémique sur le port du voile pour les hôtesses de la compagnie.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016-airfrance-archive-afp-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016-airfrance-archive-afp-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">D3A575C2-EC05-4A70-99B3-A5CF0D520400</guid>
+      <pubDate>Sun, 17 Apr 2016 13:49:19 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016-airfrance-archive-afp-m.jpg">AFP (Archive)</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>SYRIE</category>
+      <title>Le parti de Bachar al-Assad remporte les législatives en Syrie</title>
+      <link>http://www.france24.com/fr/20160417-parti-bachar-al-assad-vainqueur-legislatives-syrie-baas-elections-13-avril-resultats</link>
+      <description>Les élections législatives syriennes, organisées le 13 avril, ont été remportées sans surprise par le parti Baas de Bachar al-Assad et ses alliés, avec 200 parlementaires sur 250 sièges, a annoncé dimanche la presse syrienne.</description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016_bachar-election-syrie-afp-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016_bachar-election-syrie-afp-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">F59FF71B-A829-42DE-BD50-E25BA1F0B48E</guid>
+      <pubDate>Sun, 17 Apr 2016 15:32:49 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/17042016_bachar-election-syrie-afp-m.jpg">STR, Sana, AFP</source>
+      <author>FRANCE 24</author>
+    </item>
+    <item>
+      <category>FRANCE</category>
+      <title>Reportage : quand la pièce "Djihad" aborde la radicalisation avec des lycéens de Trappes</title>
+      <link>http://www.france24.com/fr/20160416-theatre-trappes-djihad-radicalisation-lyceens-molenbeek-belgique-terrorisme-13-novembre</link>
+      <description>Après avoir connu un immense succès en Belgique avec sa pièce "Djihad", qui raconte avec humour la radicalisation de jeunes Belges puis leur désenchantement, l'auteur belge Ismaïl Saidi l'a présentée à des lycéens de Trappes vendredi. </description>
+      <thumbnail xmlns="http://search.yahoo.com/mrss/" url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/piece-jihad-main-m.jpg"/>
+      <enclosure url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/piece-jihad-main-m.jpg" type="image/jpg" length="0"/>
+      <guid isPermaLink="false">782EA1FF-4C9B-4436-9D74-5922E07CCE2B</guid>
+      <pubDate>Sat, 16 Apr 2016 13:39:37 GMT</pubDate>
+      <source url="http://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium2/article/image/piece-jihad-main-m.jpg">Julia Dumont</source>
+      <author>Julia DUMONT</author>
+    </item>
+  </channel>
+</rss>
